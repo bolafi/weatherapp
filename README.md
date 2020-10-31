@@ -1,5 +1,5 @@
 #Hello World :grinning:
 
 
-![](/Pictures/fullstack)
+![Fullstack](/Pictures/fullstack)
 
